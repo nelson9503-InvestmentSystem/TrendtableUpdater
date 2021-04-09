@@ -1,0 +1,1 @@
+from .TrendtableUpdater import Updater

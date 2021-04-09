@@ -1,0 +1,9 @@
+[submodule "TerminalReporter"]
+	path = TerminalReporter
+	url = https://github.com/nelson9503-pymodules/TerminalReporter.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/nelson9503-pymodules/mysql.git
+[submodule "trendtable"]
+	path = trendtable
+	url = https://github.com/nelson9503-InvestmentSystem/trendtable.git
